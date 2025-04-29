@@ -1,4 +1,4 @@
-# AnimeStoriesApp
+# AnimeStoriesApp (Recieved certicicate of Outstanding Performace!)
 
 Anime Stories App is a beautifully designed Android application built using Android Studio. The app showcases a collection of captivating anime character stories, each paired with vibrant images and engaging descriptions.
 
